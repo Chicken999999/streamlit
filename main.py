@@ -6,4 +6,4 @@ st.header("I am 18 years old")
 st.subheader("Sub-header")
 
 st.button("Gooning Button")
-st.slider("Slider")
+st.slider("Value", 1, 100, 50)
