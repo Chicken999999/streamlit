@@ -1,7 +1,8 @@
 import streamlit as st
 st.write("Hello, World!")
 
-st.title("Title")
-st.header("Header")
+st.title("My name is chicken ")
+st.header("I am 18 years old")
 st.subheader("Sub-header")
 
+st.button("Gooning Button")
