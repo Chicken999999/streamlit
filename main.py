@@ -22,6 +22,7 @@ if st.button("Done"):
     st.write(f"You think it will be a {result}")
     st.write(f"You think Hancock will make {points} points.")
 # Additional information
-
+st.subheader("Summary")
+st.write("Fill out the questionar")
 # Footer
 
